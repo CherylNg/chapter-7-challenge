@@ -1,5 +1,6 @@
 {
     "name": "Chapter 7 Challenge",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
