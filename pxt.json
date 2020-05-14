@@ -1,0 +1,22 @@
+{
+    "name": "Chapter 7 Challenge",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-edubit": "github:cytrontechnologies/pxt-edubit#v1.3.0",
+        "Chapter 7 Challenge": "github:cherylng/chapter-7-challenge#5d09d88616183ed1532d5c62dde2a7fdc94b5156"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
